@@ -1,3 +1,3 @@
 # flog
 
-Flask introduction tutorial
+Flask beginner tutorial
